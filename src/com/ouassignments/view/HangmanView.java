@@ -50,7 +50,6 @@ public class HangmanView {
 	}
 
 	public void initGameboard() {
-		
 		setUIManager();
 		initializeComponents();
 		initializeNorthPanel();
